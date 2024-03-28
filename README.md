@@ -19,4 +19,4 @@ actions, and MeKBs over time.
 **Dive into our simulation 🕹️ – click the image below for a YouTube video walkthrough!**
 
 
-[![MeKB-Sim demo front end](https://github.com/HITsz-TMG/MeKB-Sim/blob/main/front_end.png)](https://youtu.be/5yWK6QcAyxc)
+[![MeKB-Sim demo front end](https://github.com/HITsz-TMG/MeKB-Sim/blob/main/front_end.png)](https://youtu.be/7F6oPaTW6kw)
