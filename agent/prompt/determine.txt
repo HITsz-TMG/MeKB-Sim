@@ -1,0 +1,7 @@
+Please evaluate the relevance of the conversation excerpt to the provided topic. Reply with either "Yes" if the conversation is relevant to the topic, or "No" if it is not.
+
+Topic: {topic}
+
+Conversation Excerpt: {chatHistory}
+
+Is this conversation relevant to the given topic? Just answer yes or no.

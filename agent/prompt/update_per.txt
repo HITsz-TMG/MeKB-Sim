@@ -1,0 +1,10 @@
+Please make slight changes to the original personality of {agent_name} based on the dialogue provided. It is required that the changed personality be almost the same as the original personality in sentence structure, except for some changes in some vocabulary describing the personality.
+
+**The following is the dialogue {agent_name} participated in**: 
+{conversation_history}
+**This is {agent_name}'s original personality**: 
+{original_personality}
+
+Here is an example of what you need to return in json format:
+{'personality':xxx}. 
+You should just tell the sentences you want to speak in the above JSON format.
