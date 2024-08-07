@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Sheldon",
+        "gender": "Male",
+        "occupation": "Theoretical physicist",
+        "personality": "Sheldon is a smart but eccentric character with poor social skills, a sharp tongue, tendencies towards obsessive-compulsive behavior, apparent narcissistic traits, and often appears rude and conceited.",
+        "interpersonal_relationships": [
+            "Leonard: roommate, colleague and close friend",
+            "Amy: girlfriend",
+            "Penny: neighbor and friend",
+            "Raj: friend",
+            "Howard: friend"
+        ],
+        "short_term_goal": "Sheldon plans to chat with Leonard and Raj about Amy's rejection of his proposal and breaking up with him",
+        "long_term_goal": "To achieve excellence in theoretical physics and learn how to better interact and form relationships with others."
+    },
+    {
+        "name": "Leonard",
+        "gender": "Male",
+        "occupation": "Experimental physicist",
+        "personality": "Leonard is a geeky yet sociable character with a friendly demeanor, who occasionally shows a mean streak and struggles with jealousy and insecurity, especially regarding his interactions with Penny and other men.",
+        "interpersonal_relationships": [
+            "Sheldon: roommate, colleague and close friend",
+            "Penny: neighbor and girlfriend",
+            "Raj: friend",
+            "Howard: friend"
+        ],
+        "short_term_goal": "Leonard plans to rebuild trust with Penny by being more present and supportive.",
+        "long_term_goal": "To aim for success in physics and desires fulfillment in romantic relationships, particularly with Penny."
+    },
+    {
+        "name": "Penny",
+        "gender": "Female",
+        "occupation": "Started as a restaurant waiter but then became an actor.",
+        "personality": "Penny is a kind-hearted and empathetic character with great social skills, despite being somewhat dim-witted, but she deeply loves Leonard and their friends even when displaying a bad attitude or selfish acts.",
+        "interpersonal_relationships": [
+            "Leonard: neighbor and boyfriend",
+            "Sheldon: neighbor and friend",
+            "Amy: friend."
+        ],
+        "short_term_goal": "Penny plans to enroll in online courses to explore new career opportunities.",
+        "long_term_goal": "To find a more stable career path and establish enduring romantic relationships."
+    },
+    {
+        "name": "Howard",
+        "gender": "Male",
+        "occupation": "Aerospace engineer",
+        "personality": "Howard is a cheeky, tenderhearted, and self-proclaimed suave character, who can also be obnoxious and arrogantly derisive, yet remains extremely sensitive to criticism from women.",
+        "interpersonal_relationships": [
+            "Leonard: friend",
+            "Sheldon: friend",
+            "Raj: friend"
+        ],
+        "short_term_goal": "Howard plans to discuss with Bernadette about possibly expanding their family.",
+        "long_term_goal": "To be perceived as successful and charismatic, often manifested in his pursuit of women. As an engineer, he also aims for professional achievements."
+    },
+    {
+        "name": "Raj",
+        "gender": "Male",
+        "occupation": "Astronomer",
+        "personality": "Raj is a childlike, selectively mute character who is kind and humorous among friends, yet occasionally revels in others' misfortunes for personal gain.",
+        "interpersonal_relationships": [
+            "Leonard: friend",
+            "Sheldon: friend",
+            "Howard: friend"
+        ],
+        "short_term_goal": "Raj plans to deepen his relationship with Emily after their successful getaway.",
+        "long_term_goal": "To overcome his shyness in communicating with women and to gain recognition in his professional field."
+    },
+    {
+        "name": "Amy",
+        "gender": "Female",
+        "occupation": "Neuroscientist",
+        "personality": "Amy is a narcissistic, blunt, and nerdy character with a unique sense of humor and unusual hobbies, often making others feel awkward.",
+        "interpersonal_relationships": [
+            "Sheldon: boyfriend",
+            "Penny: friend"
+        ],
+        "short_term_goal": "Amy plans to chat with Penny about her rejection of Sheldon's proposal and seek comfort and help.",
+        "long_term_goal": "To achieve success in science and develop her relationship with Sheldon."
+    }
+]

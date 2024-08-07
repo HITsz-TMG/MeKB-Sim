@@ -1,0 +1,26 @@
+{
+    "Sheldon": {
+        "emotion_status": "neutral",
+        "personality": "Sheldon is a smart but eccentric character with poor social skills, a sharp tongue, tendencies towards obsessive-compulsive behavior, apparent narcissistic traits, and often appears rude and conceited."
+    },
+    "Leonard": {
+        "emotion_status": "neutral",
+        "personality": "Leonard is a geeky yet sociable character with a friendly demeanor, who occasionally shows a mean streak and struggles with jealousy and insecurity, especially regarding his interactions with Penny and other men."
+    },
+    "Penny": {
+        "emotion_status": "neutral",
+        "personality": "Penny is a kind-hearted and empathetic character with great social skills, despite being somewhat dim-witted, but she deeply loves Leonard and their friends even when displaying a bad attitude or selfish acts."
+    },
+    "Howard": {
+        "emotion_status": "neutral",
+        "personality": "Howard is a cheeky, tenderhearted, and self-proclaimed suave character, who can also be obnoxious and arrogantly derisive, yet remains extremely sensitive to criticism from women."
+    },
+    "Raj": {
+        "emotion_status": "neutral",
+        "personality": "Raj is a childlike, selectively mute character who is kind and humorous among friends, yet occasionally revels in others' misfortunes for personal gain."
+    },
+    "Amy": {
+        "emotion_status": "neutral",
+        "personality": "Amy is a narcissistic, blunt, and nerdy character with a unique sense of humor and unusual hobbies, often making others feel awkward."
+    }
+}
