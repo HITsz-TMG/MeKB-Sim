@@ -1,9 +1,9 @@
 # MeKB-Sim: Personal Knowledge Base-Powered Multi-Agent Simulation 🌐
 
 
-[![Paper](https://img.shields.io/badge/Paper-TODO-yellow)](https://mekb-sim.github.io/static/MeKB_Sim_Paper.pdf)
-[![Game Interface](https://img.shields.io/badge/Demo-TODO-orange)](http://49.51.252.71:7042/)
-[![Monitoring Panel](https://img.shields.io/badge/Demo-TODO-orange)](http://49.51.252.71:7041/)
+[![Paper](https://img.shields.io/badge/Paper-MeKB_Sim-yellow)](https://mekb-sim.github.io/static/MeKB_Sim_Paper.pdf)
+[![Game Interface](https://img.shields.io/badge/Demo-Game_Interface-blue)](http://49.51.252.71:7042/)
+[![Monitoring Panel](https://img.shields.io/badge/Demo-Monitoring_Panel-orange)](http://49.51.252.71:7041/)
 [![Video](https://img.shields.io/badge/Video-Youtube-red)](https://youtu.be/5yWK6QcAyxc)
 
 
