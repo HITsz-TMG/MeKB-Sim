@@ -4,7 +4,7 @@
 [![Paper](https://img.shields.io/badge/Paper-MeKB_Sim-yellow)](https://mekb-sim.github.io/static/MeKB_Sim_Paper.pdf)
 [![Game Interface](https://img.shields.io/badge/Demo-Game_Interface-blue)](http://49.51.252.71:7042/)
 [![Monitoring Panel](https://img.shields.io/badge/Demo-Monitoring_Panel-orange)](http://49.51.252.71:7041/)
-[![Video](https://img.shields.io/badge/Video-Youtube-red)](https://youtu.be/5yWK6QcAyxc)
+[![Video](https://img.shields.io/badge/Video-Youtube-red)](https://www.youtube.com/watch?v=_-5bbsgywFc)
 
 
 🚀 We are excited to introduce **MeKB-Sim**, a multi-agent simulation platform that closely mimic real-life interactions, based on a dynamic personal knowledge base, termed **MeKB**.
